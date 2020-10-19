@@ -1,4 +1,5 @@
 # VIT_BOT
+This bot gives the information about the fee details to the student who wants to join in VIT.
 ## Team Members
 1. D.Mamatha, mamatha.d@vishnu.edu.in
 
