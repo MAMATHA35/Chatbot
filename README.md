@@ -10,9 +10,10 @@ This bot gives the information about the fee details to the student who wants to
 https://www.youtube.com/watch?v=5-AOYlxuNzg
 ## Description
 This is a program for chatbot to know the fee details of **VIT college**
-  + The bot will start with a greeting and ask for name of the person
-  + The bot will greet and welcome the person
-  + Bot will ask the student wants to join in which brach.
+  + The bot will start with a greeting and ask for name of the person.
+  + The bot will ask the person to join through EAMCET or MANAGEMENT.
+  + Based on response of the student bot will ask the student in which branch
+he/she wants to join.
   + It will respond to users input appropriately
 ## References
 www.vishnu.edu.in
