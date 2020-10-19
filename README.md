@@ -4,7 +4,7 @@
 
 2. G.Srilakshmi, srilakshmi.g@vishnu.edu.in
 ## Design
-
+![Design](https://github.com/MAMATHA35/Chatbot/blob/main/Picture2.jpg)
 ## Youtube Link
 
 ## Description
